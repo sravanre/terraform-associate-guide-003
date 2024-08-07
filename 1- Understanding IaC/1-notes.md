@@ -37,4 +37,5 @@ How do we take the process of 'ClickOps' for standing up infrastructure and codi
   - Who changed what
   - Transparency of documentation
   - Tracking the changes of the infrastructure over time
+  - collaboration with the teams 
 </details>
